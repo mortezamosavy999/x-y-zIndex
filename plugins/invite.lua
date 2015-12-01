@@ -42,8 +42,7 @@ return {
     "^!invite (name) (.*)$",
     "^!invite (id) (%d+)$"
   }, 
-  run = run,
-  moderation = true 
+  run = run 
 }
 
 end
